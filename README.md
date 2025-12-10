@@ -113,6 +113,3 @@ Escolha: 3
 ID para buscar: 4
 Resultado: Carlos
 
-
-## Autor
-Samilly Sousa agora esta melhor?
